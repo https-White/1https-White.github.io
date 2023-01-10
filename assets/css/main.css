@@ -2530,7 +2530,7 @@
 
 		.wrapper.style2 {
 			background-color: #fff;
-			background-image: url("images/fon.png");
+			background-image: url("images/fon-left.png"), url("images/fon.png"), url("images/fon-right.png");
 			background-position: top left,						bottom left,					top left;
 			background-size: 100% 6em,						100% 6em,						auto;
 			background-repeat: no-repeat,						no-repeat,						repeat;
